@@ -8,7 +8,7 @@ Need some artwork? [ArtWork Repo](https://github.com/GlobalAICommunity/Artwork)
 
 
 ## Workshops
-This year we have 6 workshops for you.
+This year we have 7 workshops for you.
 
 ### Bot Framework, Bot Service and Cognitive Services
 
@@ -18,14 +18,22 @@ This year we have 6 workshops for you.
 
 - [Workshop 2 - Azure Custom Vision](https://github.com/GlobalAICommunity/Workshop-CustomVisionAITools)
 
-#### Beginner Track
+#### Intermediate Track Track
 
 - [Workshop 3 - Build Chat Bot using Bot Framework SDK v4 and Visual Studio 2019](https://github.com/hinault/Workshop-BotFramework)
 
-- [Workshop 2 - Azure Machine Learning designer](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAzureMLSWine)
-- [Workshop 3 - Automated ML UI](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAutoMLWine)
-- [Workshop 4 - ML.Net](https://github.com/GlobalAICommunity/Workshop-MLNet)
-- [Workshop 5 - Azure Machine Learning SDK](https://github.com/GlobalAICommunity/Workshop-AMLS)
-- [Workshop 6 - Cloud Scale Machine Learning](https://github.com/cloudscaleml/workshop)
+### Azure Machine Learning
+
+#### Beginner Track
+
+- [Workshop 4 - Azure Machine Learning designer](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAzureMLSWine)
+
+- [Workshop 5 - Automated ML UI](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAutoMLWine)
+
+#### Intermediate Track Track
+
+- [Workshop 6 - Azure Machine Learning SDK](https://github.com/GlobalAICommunity/Workshop-AMLS)
+
+- [Workshop 7 - Cloud Scale Machine Learning](https://github.com/cloudscaleml/workshop)
 
 
