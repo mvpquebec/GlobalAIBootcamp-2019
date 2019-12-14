@@ -18,7 +18,7 @@ This year we have 7 workshops for you.
 
 - [Workshop 2 - Azure Custom Vision](https://github.com/GlobalAICommunity/Workshop-CustomVisionAITools)
 
-#### Intermediate Track Track
+#### Intermediate Track
 
 - [Workshop 3 - Build Chat Bot using Bot Framework SDK v4 and Visual Studio 2019](https://github.com/hinault/Workshop-BotFramework)
 
@@ -30,7 +30,7 @@ This year we have 7 workshops for you.
 
 - [Workshop 5 - Automated ML UI](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAutoMLWine)
 
-#### Intermediate Track Track
+#### Intermediate Track
 
 - [Workshop 6 - Azure Machine Learning SDK](https://github.com/GlobalAICommunity/Workshop-AMLS)
 
