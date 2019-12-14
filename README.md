@@ -14,7 +14,7 @@ This year we have 7 workshops for you.
 
 #### Beginner Track
 
-- [Workshop 1 - Build chatbot with QnA Maker and Azure Bot Service](https://github.com/hinault/Workshop-BotFramework)
+- [Workshop 1 - Build chatbot with QnA Maker and Azure Bot Service](https://github.com/hinault/Workshop-ChatBot-With-QnAMaker/)
 
 - [Workshop 2 - Azure Custom Vision](https://github.com/GlobalAICommunity/Workshop-CustomVisionAITools)
 
